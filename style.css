@@ -18,3 +18,12 @@
         color: black; /* color del texto al pasar el mouse */
         border: 2px solid #4CAF50; /* borde verde al pasar el mouse */
     }
+
+    body{
+
+        background-color: rgb(29, 37, 143); /* color de fondo */
+    }
+
+    head{
+        background-color: rgb(215, 238, 9); /* color de fondo */
+    }
